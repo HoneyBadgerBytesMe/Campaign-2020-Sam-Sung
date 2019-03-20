@@ -1,0 +1,47 @@
+.vote{
+    color:blue;
+    border-radius:500px;
+    display:flex;
+    justify-content:space-around;
+   }
+   .mr{
+       margin:15px;
+       font-size:20px;
+       text-align:center;
+   }
+   .img{
+       text-align:center;
+   }
+.red{ 
+    padding:60px;
+    border: 40px dotted green;
+    width:900px;
+    width:70%;
+    font-size: 100px;
+    border-radius:00px;
+    padding:20px;
+    border: 90px groove red;
+    display:flex;
+    width:70%;
+        margin:0 10%;
+    }
+    .igm{
+        width:70%;
+        margin:0 15%;
+    }
+    .donte{
+        text-align:center;
+        color:red;
+    }
+    .donte{
+        font-size:60px;
+    }
+.like{
+    color:blue;
+}
+body{
+    background-color:pink;
+    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/USN_USMC_Rudder_Stripes_1941-1942.svg/2000px-USN_USMC_Rudder_Stripes_1941-1942.svg.png");
+     background-repeat:repeat;
+      background-size: 2300px;
+}
